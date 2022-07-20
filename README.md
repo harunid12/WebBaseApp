@@ -8,3 +8,6 @@ fitur:
 - halaman dashboard
 - perintah CRUD
 
+akun login:
+username/password : harunid12
+
